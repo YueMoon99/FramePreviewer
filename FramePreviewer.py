@@ -4,7 +4,7 @@ import re
 import glob
 import ctypes
 from PyQt6.QtWidgets import (QApplication, QMainWindow, QWidget, QVBoxLayout, 
-                             QHBoxLayout, QGraphicsView, QGraphicsScene, 
+                             QHBoxLayout, QGraphicsView, QGraphicsScene,
                              QComboBox, QLabel, QPushButton, QFileDialog, QGraphicsItem)
 from PyQt6.QtCore import (Qt, QTimer, QThread, pyqtSignal, QPointF, QRectF, QEvent)
 from PyQt6.QtGui import (QPixmap, QImage, QIcon, QPainter, QColor, QPen, QBrush, 
