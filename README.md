@@ -17,14 +17,14 @@
 3.  按 **空格键** 播放/暂停。
 4.  使用 **鼠标滚轮** 缩放，**左键拖拽** 图片查看细节，或在下方 **进度条** 拖动预览。
 
-## 👨‍💻 作者信息
- **YueMoon** (舟午YueMoon).  
-如果您有任何建议欢迎联系！
-Instagram：@yuemoon999
-Discord:@YueMoon99
-博客：http://yuemoon.vip
-GitHub：@YueMoon99
-B站：UID223633562
+## 👨‍💻 作者信息<br>
+ **YueMoon** (舟午YueMoon).<br>  
+如果您有任何建议欢迎联系！<br>
+Instagram：@yuemoon999<br>
+Discord:@YueMoon99<br>
+博客：http://yuemoon.vip<br>
+GitHub：@YueMoon99<br>
+B站：UID223633562<br>
 ---
 
 ## English
@@ -51,13 +51,13 @@ B站：UID223633562
 ---
 
 ## 👨‍💻 Author
-Developed by **YueMoon** (舟午YueMoon).  
-Feel free to reach out if you have any questions or suggestions!
-Instagram:@yuemoon999
-Discord:@YueMoon99
-Blog:http://yuemoon.vip
-GitHub:@YueMoon99
-Bilibili:UID223633562
+Developed by **YueMoon** (舟午YueMoon). <br>
+Feel free to reach out if you have any questions or suggestions!<br>
+Instagram:@yuemoon999<br>
+Discord:@YueMoon99<br>
+Blog:http://yuemoon.vip<br>
+GitHub:@YueMoon99<br>
+Bilibili:UID223633562<br>
 
 ## 📄 License
 This project is licensed under the [MIT License](LICENSE).
