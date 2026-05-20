@@ -6,7 +6,7 @@
 ### ✨ v2.0 全新特性<br>
 沉浸式预览模式： 一键隐藏所有 UI 控件，享受纯粹、无干扰的全屏播放体验（按 ESC 即可恢复）。<br>
 强大的导出引擎： 现在你可以将序列帧直接压制导出为 MP4、MOV（完美支持 Alpha 透明通道！）以及 GIF 格式。<br>
-全面支持 Apple Silicon： 现已提供原生适配 Mac M 系列芯片。<br>
+全面支持 Apple Silicon： 现已适配 Mac M 系列芯片。<br>
 现代高级 UI： 全新重构的深色模式界面。<br><br>
 
 ### 🚀 核心功能<br>
@@ -40,7 +40,7 @@ A lightweight, elegant, and blazing-fast image sequence previewer designed for a
 ### ✨ What's New in v2.0<br>
 Immersive Preview Mode: Hide the UI with a single click for a clean, distraction-free playback experience (Press ESC to restore).<br>
 Powerful Export Engine: Render your sequences directly into MP4, MOV (with Alpha Channel support for transparency!), or GIF formats.<br>
-Apple Silicon Support: Fully optimized native builds for macOS M-series Chips.<br>
+Apple Silicon Support: Fully optimized for macOS M-series Chips.<br>
 Sleek Modern UI: Completely redesigned dark theme with custom typography.<br><br>
 
 ### 🚀 Key Features<br>
