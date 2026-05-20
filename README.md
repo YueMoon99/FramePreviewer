@@ -6,8 +6,8 @@
 ### ✨ v2.0 全新特性<br>
 沉浸式预览模式： 一键隐藏所有 UI 控件，享受纯粹、无干扰的全屏播放体验（按 ESC 即可恢复）。<br>
 强大的导出引擎： 现在你可以将序列帧直接压制导出为 MP4、MOV（完美支持 Alpha 透明通道！）以及 GIF 格式。<br>
-全面支持 Apple Silicon： 现已提供原生适配 Mac M 系列芯片（ARM64）的专属版本，当然，Windows 和 Mac Intel 用户同样拥有完美支持。<br>
-现代高级 UI： 全新重构的深色模式界面，精心打磨的抗锯齿字体、全局圆角，以及原汁原味的 Mac“红绿灯”与 Windows 窗口控制键。<br><br>
+全面支持 Apple Silicon： 现已提供原生适配 Mac M 系列芯片。<br>
+现代高级 UI： 全新重构的深色模式界面。<br><br>
 
 ### 🚀 核心功能<br>
 极简拖拽： 将序列中的任意一帧拖入窗口，软件将自动读取并加载完整序列。<br>
@@ -40,8 +40,8 @@ A lightweight, elegant, and blazing-fast image sequence previewer designed for a
 ### ✨ What's New in v2.0<br>
 Immersive Preview Mode: Hide the UI with a single click for a clean, distraction-free playback experience (Press ESC to restore).<br>
 Powerful Export Engine: Render your sequences directly into MP4, MOV (with Alpha Channel support for transparency!), or GIF formats.<br>
-Apple Silicon Support: Fully optimized native builds for macOS M-series (ARM64) alongside Intel and Windows builds.<br>
-Sleek Modern UI: Completely redesigned dark theme with custom typography, rounded corners, and native-feeling window controls for both Windows and Mac.<br><br>
+Apple Silicon Support: Fully optimized native builds for macOS M-series Chips.<br>
+Sleek Modern UI: Completely redesigned dark theme with custom typography.<br><br>
 
 ### 🚀 Key Features<br>
 Drag & Drop: Drop any single frame of your sequence into the window, and it automatically loads the entire sequence.<br>
