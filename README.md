@@ -32,7 +32,7 @@ FFmpeg（已内置跨平台独立组件，提供极速渲染）<br><br>
 博客：http://yuemoon.vip/<br>
 GitHub：@YueMoon99<br>
 B站：UID223633562<br>
-YouTube：@moonyue9975<br><br>
+YouTube：@YueMoon99<br><br>
 
 # 🇬🇧 English<br>
 A lightweight, elegant, and blazing-fast image sequence previewer designed for animators and motion graphic designers. Instantly playback your rendered sequences without firing up heavy software like After Effects or Premiere Pro!<br><br>
@@ -68,4 +68,4 @@ If you have any feedback or feature requests, feel free to contact!<br><br>
 Blog：http://yuemoon.vip/<br>
 GitHub：@YueMoon99<br>
 Blibili：UID223633562<br>
-YouTube：@moonyue9975<br>
+YouTube：@YueMoon99<br>
