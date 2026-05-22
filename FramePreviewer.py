@@ -25,7 +25,7 @@ LANG = {
         'bg_red': '纯红',
         'bg_blue': '纯蓝',
         'lang_btn': 'English', 
-        'hint': '拖入序列的任意一帧即可'
+        'hint': '拖入序列的任意一帧即可！'
     },
     'en': {
         'title': 'Image Sequence Previewer',
@@ -40,7 +40,7 @@ LANG = {
         'bg_red': 'Red',
         'bg_blue': 'Blue',
         'lang_btn': '中文',
-        'hint': 'Drop any frame of the sequence here'
+        'hint': 'Drop any frame of the sequence here!'
     }
 }
 
