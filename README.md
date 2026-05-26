@@ -1,7 +1,16 @@
-🖼️ Image Sequence Previewer v2.0 | 序列帧预览器 v2.0
+🖼️ 序列帧预览器 v2.1 | Image Sequence Previewer v2.1
 
 # 🇨🇳 中文<br>
-一款轻量、优雅且极其迅速的序列帧预览工具，专为动画师和动态图形设计师打造。无需繁琐地打开 After Effects 或 Premiere Pro，拖入即可瞬间流畅回放你的渲染序列！<br><br>
+一款轻量、优雅且极其迅速的序列帧预览工具，专为动画师和动态图形设计师打造。无需繁琐地打开 After Effects 或 Premiere Pro，拖入即可瞬间流畅回放你的渲染序列！<br>
+快去Release中下载体验吧！～！～！～！～！～！～！～！～！～！～！～！～！～
+<br><br>
+
+### ✨ v2.1 更新日志<br>
+
+✨ 悬浮帧数显示：时间轴上方新增跟随播放头的气泡提示，实时精准显示原文件名的帧号。<br>
+🔄 刷新序列功能：底部控制栏新增“刷新”按钮，支持一键重新加载当前序列文件。<br>
+🗑️ 一键清空与重置：新增“清空”按钮，点击即可快速释放占用的内存，并将软件界面恢复至初始状态。<br>
+🧠 智能导出命名：优化了导出逻辑，导出文件不再默认命名为“output”，而是自动抓取源文件名作为智能前缀。<br><br>
 
 ### ✨ v2.0 全新特性<br>
 沉浸式预览模式： 一键隐藏所有 UI 控件，享受纯粹、无干扰的全屏播放体验（按 ESC 即可恢复）。<br>
@@ -36,6 +45,12 @@ YouTube：@YueMoon99<br><br>
 
 # 🇬🇧 English<br>
 A lightweight, elegant, and blazing-fast image sequence previewer designed for animators and motion graphic designers. Instantly playback your rendered sequences without firing up heavy software like After Effects or Premiere Pro!<br><br>
+
+### ✨ What's New in v2.1<br>
+✨ Floating Frame Indicator: Added a dynamic tooltip above the timeline playhead that displays the original file's frame number in real-time.<br>
+🔄 Refresh Sequence: Added a "Refresh" button in the control bar to quickly reload the currently loaded image sequence.<br>
+🗑️ Clear & Reset: Added a "Clear" button to flush RAM usage and restore the application to its initial default state.<br>
+🧠 Smart Export Naming: Exported files now automatically extract and adopt the original sequence's filename prefix instead of defaulting to "output".<br><br>
 
 ### ✨ What's New in v2.0<br>
 Immersive Preview Mode: Hide the UI with a single click for a clean, distraction-free playback experience (Press ESC to restore).<br>
