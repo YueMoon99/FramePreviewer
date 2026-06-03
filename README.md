@@ -1,7 +1,19 @@
-🖼️ 序列帧预览器 v2.1 | Image Sequence Previewer v2.1<br>
-Video Intro：<br>
-[![YouTube Video](https://img.youtube.com/vi/sDCH1o2Clfs/maxresdefault.jpg)](https://www.youtube.com/watch?v=sDCH1o2Clfs)
-# 🇨🇳 中文<br>
+<div align="center">
+  <h1>🖼️ 序列帧预览器 v2.1 | Image Sequence Previewer v2.1</h1>
+  
+  <a href="#中文"><img src="https://img.shields.io/badge/🇨🇳_中文-Click_Here-blue?style=for-the-badge" alt="中文版"></a>
+  <a href="#english"><img src="https://img.shields.io/badge/🇬🇧_English-Click_Here-blue?style=for-the-badge" alt="English"></a>
+  <br><br>
+
+  <h3>点击查看视频简介 / Click to view Video Intro：</h3>
+  <a href="https://www.youtube.com/watch?v=sDCH1o2Clfs">
+    <img src="https://img.youtube.com/vi/sDCH1o2Clfs/maxresdefault.jpg" width="400" />
+  </a>
+</div>
+
+<br><br>
+
+# 中文<br>
 一款轻量、优雅且极其迅速的序列帧预览工具，专为动画师和动态图形设计师打造。无需繁琐地打开 After Effects 或 Premiere Pro，拖入即可瞬间流畅回放你的渲染序列！<br>
 快去Release中下载体验吧！～！～！～！～！～！～！～！～！～！～！～！～！～
 <br><br>
@@ -44,7 +56,7 @@ GitHub：@YueMoon99<br>
 B站：UID223633562<br>
 YouTube：@YueMoon99<br><br>
 
-# 🇬🇧 English<br>
+# English<br>
 A lightweight, elegant, and blazing-fast image sequence previewer designed for animators and motion graphic designers. Instantly playback your rendered sequences without firing up heavy software like After Effects or Premiere Pro!<br><br>
 
 ### ✨ What's New in v2.1<br>
