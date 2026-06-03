@@ -1,5 +1,5 @@
-🖼️ 序列帧预览器 v2.1 | Image Sequence Previewer v2.1
-Video Intro：
+🖼️ 序列帧预览器 v2.1 | Image Sequence Previewer v2.1<br>
+Video Intro：<br>
 [![YouTube Video](https://img.youtube.com/vi/sDCH1o2Clfs/maxresdefault.jpg)](https://www.youtube.com/watch?v=sDCH1o2Clfs)
 # 🇨🇳 中文<br>
 一款轻量、优雅且极其迅速的序列帧预览工具，专为动画师和动态图形设计师打造。无需繁琐地打开 After Effects 或 Premiere Pro，拖入即可瞬间流畅回放你的渲染序列！<br>
