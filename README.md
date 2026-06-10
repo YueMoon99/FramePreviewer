@@ -46,7 +46,7 @@
 ### 📥 下载与安装<br>
 请前往 Releases 页面下载适合你操作系统的最新版本：<br>
 Windows (x86_64)<br>
-macOS (Apple Silicon / M1/M2/M3)<br>
+macOS (Apple Silicon)<br>
 Mac 用户贴士：作为独立开发者软件，首次打开时可能会遇到苹果的安全拦截。若您遇到拦截，请在终端执行 sudo xattr -rd com.apple.quarantine /Applications/FramePreviewer.app 即可完美解除限制。<br><br>
 
 ### 🛠️ 技术栈<br>
@@ -92,7 +92,7 @@ Bilingual: Switch seamlessly between English and Chinese.<br><br>
 ### 📥 Download & Install<br>
 Head over to the Releases page to download the latest version for your operating system:<br>
 Windows (x86_64)<br>
-macOS (Only for Apple Silicon now / M1/M2/M3)<br><br>
+macOS (Only for Apple Silicon now)<br><br>
 
 Note for macOS users: Since this is an indie-developed app, you might see a security warning on the first launch. Please run sudo xattr -rd com.apple.quarantine /Applications/FramePreviewer.app in your terminal if macOS blocks the app.<br>
 
