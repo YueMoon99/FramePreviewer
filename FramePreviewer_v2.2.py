@@ -8,7 +8,7 @@ from PyQt6.QtWidgets import (QApplication, QMainWindow, QWidget, QVBoxLayout,
                              QHBoxLayout, QGraphicsView, QGraphicsScene, 
                              QComboBox, QLabel, QPushButton, QGraphicsItem, QMessageBox,
                              QSizeGrip, QFileDialog, QProgressDialog, QSystemTrayIcon, QMenu)
-from PyQt6.QtCore import (Qt, QTimer, QThread, pyqtSignal, QPointF, QRectF, QSettings)
+from PyQt6.QtCore import (Qt, QTimer, QThread, pyqtSignal, QPointF, QRectF, QSettings, QEvent)
 from PyQt6.QtGui import (QPixmap, QImage, QIcon, QPainter, QColor, QPen, QBrush, 
                          QTransform, QKeySequence, QShortcut, QPolygonF, QAction)
 try:
@@ -931,6 +931,7 @@ class SequenceViewer(QMainWindow):
         
         self.init_ui()
         self.init_tray()
+        QApplication.instance().installEventFilter(self)
         self.init_timer()
         self.update_language()
         icon_path = resource_path("favicon.ico")
@@ -973,6 +974,14 @@ class SequenceViewer(QMainWindow):
             
         event.ignore()
         self.hide()
+    
+    def eventFilter(self, watched, event):
+        if event.type() == QEvent.Type.ApplicationActivate:
+            if self.isHidden():
+                self.showNormal()    
+                self.activateWindow()
+            return True
+        return super().eventFilter(watched, event)
 
     def force_quit(self):
         self.settings.setValue("last_fps", self.cb_fps.currentText())
