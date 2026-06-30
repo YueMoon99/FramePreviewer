@@ -12,6 +12,7 @@
 </div>
 
 <br><br>
+## <a href="https://www.creem.io/payment/prod_1P9jWo3dzuXhPZOzIegw9f">Support me on Creem </a><br>thanks<br>
 
 # 中文<br>
 一款轻量、优雅且极其迅速的序列帧预览工具，专为动画师和动态图形设计师打造。无需繁琐地打开 After Effects 或 Premiere Pro，拖入即可瞬间流畅回放你的渲染序列！<br>
