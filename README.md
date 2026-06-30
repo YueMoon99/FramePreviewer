@@ -18,6 +18,10 @@
 快去Release中下载体验吧！～！～！～！～！～！～！～！～！～！～！～！～！～
 <br><br>
 
+## 界面预览<br>
+<img width="957" height="645" alt="Screenshot 2026-06-30 101710" src="https://github.com/user-attachments/assets/86d01ca6-ce44-4e34-8f8a-c6886f40940b" />
+<br><br>
+
 ### ✨ v2.2 更新日志<br>
 ✨ EXR 格式支持：全新引入 OpenCV 引擎，支持读取工业级 EXR 序列，自动进行 Gamma 2.2 校正，并完美兼容带 Alpha 透明通道及包含负数极值的渲染图。<br>
 ✂️ 入点与出点设置：新增专业级出入点功能。按 I / O 键或在时间线上直接拖拽方括号即可设置范围，支持仅在设定范围内进行循环回放与视频导出。<br>
@@ -63,6 +67,10 @@ YouTube：@YueMoon99<br><br>
 
 # English<br>
 A lightweight, elegant, and blazing-fast image sequence previewer designed for animators and motion graphic designers. Instantly playback your rendered sequences without firing up heavy software like After Effects or Premiere Pro!<br><br>
+
+## UI Preview<br>
+<img width="973" height="645" alt="Screenshot 2026-06-30 101717" src="https://github.com/user-attachments/assets/36e3c054-0a2c-4035-beb1-de33aa13d662" />
+<br><br>
 
 ### ✨ What's New in v2.2<br>
 ✨ EXR Format Support: Introduced OpenCV engine to support industrial EXR sequences. Features automatic Gamma 2.2 correction and full compatibility with Alpha channels and negative exposure values.<br>
